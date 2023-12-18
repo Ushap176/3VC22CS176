@@ -1,3 +1,3 @@
 # 3VC22CS176
-this is my repositary
+this is my first repositary
 author-Usha
